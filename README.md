@@ -11,6 +11,7 @@ Providing concise and accurate answers based on the content of the document.
 The implementation will evaluate the chatbot’s ability to handle diverse queries and deliver accurate responses.
 
 ## DESIGN STEPS:
+```
 ## STEP 1: Load and Parse PDF
 Use LangChain's DocumentLoader to extract text from a PDF document.
 
@@ -25,6 +26,7 @@ Process user queries, retrieve relevant document sections, and generate response
 
 ## STEP 5: Evaluate Effectiveness
 Test the chatbot with a variety of queries to assess accuracy and reliability.
+```
 
 ## PROGRAM:
 from langchain.embeddings.openai import OpenAIEmbeddings
