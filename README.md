@@ -87,7 +87,8 @@ print("Answer: ", result["result"])
 ```
 
 ### OUTPUT:
-![output 3](https://github.com/user-attachments/assets/1af778bf-ef04-4369-bf8b-86ee08825d4a)
+![image](https://github.com/user-attachments/assets/12a8541f-ddf0-4700-8044-f50c573d441c)
+
 
 
 ### RESULT:
